@@ -86,6 +86,10 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/panhuanghe/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Micheal88889/mmack/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+```
+
 - shadowsocks 动态IP白名单模式【Beta】
 
 ```
